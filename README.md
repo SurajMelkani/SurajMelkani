@@ -12,7 +12,7 @@ Welcome to my research portfolio. This GitHub serves as the software and modelin
 
 ### 1. Everglades Growers DSS  
 Interactive decision-support system that predicts soil organic matter, subsidence risk, and management guidance based on spatial selection within the EAA.  
-[View Repository](#)
+[View Repository](#) https://github.com/SurajMelkani/EAA-Growers-DSS
 
 ### 2. Rapid Soil Health Assessment via Handheld Spectroscopy  
 Machine-learning models developed using NeoSpectra VIS–NIR data to instantly predict soil health indicators.  
