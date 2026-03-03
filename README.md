@@ -3,15 +3,11 @@ University of Florida – Soil, Water, and Ecosystem Sciences
 
 Welcome to my research portfolio. This GitHub serves as the software and modeling hub for my research focused on:
 
--Soil Organic Carbon Dynamics in cultivated Histosols
-
--Digital Soil Mapping and spatial carbon modeling
-
--Soil Spectroscopy and machine learning pipelines
-
--Remote sensing and Satellite/UAV spatial analytics
-
--Simulation modeling and soil carbon systems analysis
+- Soil organic carbon dynamics in cultivated Histosols  
+- Digital soil mapping and spatial carbon modeling  
+- Soil spectroscopy machine learning pipelines  
+- Remote sensing and satellite/UAV spatial analytics  
+- Simulation modeling (DSSAT, RothC) 
 
 ## Featured Projects
 
