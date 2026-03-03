@@ -55,5 +55,43 @@ https://github.com/SurajMelkani/Soil-Carbon-Dynamics-Simulator-Model
 Soil carbon stability, proximal sensing, machine learning pipelines, spatial modeling, and sustainable management of organic soils.
 
 ---
+1️⃣ SpectraSoil: Soil Carbon & Health Analyzer
 
+A research-driven platform for rapid estimation of soil carbon fractions and soil health indicators using near-infrared spectroscopy.
+
+🔬 Live Application:
+Launch SpectraSoil
+
+📂 Repository:
+View GitHub Repository
+
+2️⃣ Everglades Growers Decision Support System
+
+An interactive spatial decision-support system predicting soil organic matter, subsidence risk, and management guidance based on field selection within the Everglades Agricultural Area.
+
+🌾 Live Application:
+Launch Decision Support System
+
+📂 Repository:
+View GitHub Repository
+
+3️⃣ Satellite & UAV Multispectral Vegetation Index Calculator
+
+An interactive web-based tool built with Python and Streamlit to rapidly process and visualize multispectral imagery and RGB photos from satellite and drone platforms.
+
+🛰 Live Application:
+Launch Vegetation Index Calculator
+
+📂 Repository:
+View GitHub Repository
+
+4️⃣ Soil Carbon Dynamics Simulator
+
+An interactive simulation platform for comparing soil carbon model structures under consistent carbon input and initial stock scenarios.
+
+🌍 Live Application:
+Launch Soil Carbon Dynamics Simulator
+
+📂 Repository:
+View GitHub Repository
 This portfolio complements my academic publications and ongoing research at UF/IFAS.
