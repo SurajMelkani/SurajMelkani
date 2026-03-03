@@ -35,8 +35,6 @@ An interactive simulation platform for comparing soil carbon model structures un
 
 [Launch Soil Carbon Dynamics Simulator](https://ljdrky-suraj-melkani.shinyapps.io/Soil_C_Simulation/)  |       [Repository](https://github.com/SurajMelkani/Soil-Carbon-Dynamics-Simulator-Model)
 
-## Research Interests
-Soil carbon stability, proximal sensing, machine learning pipelines, spatial modeling, and sustainable management of organic soils.
 
 ---
 
