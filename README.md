@@ -1,12 +1,12 @@
 # Suraj Melkani, PhD Candidate  
 University of Florida – Soil, Water, and Ecosystem Sciences  
 
-Welcome to my research portfolio. This GitHub serves as the software and modeling hub for my PhD research focused on:
+Welcome to my research portfolio. This GitHub serves as the software and modeling hub for my research focused on:
 
 - Soil Organic Carbon Dynamics  
-- Digital Soil Mapping (EAA – Everglades Agricultural Area)  
+- Digital Soil Mapping 
 - Soil Spectroscopy and Machine Learning  
-- Precision Agriculture Decision Support Tools  
+- Remote Sensing & Satellite/UAV Spatial Analysis
 
 ## Featured Projects
 
