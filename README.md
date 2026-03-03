@@ -1,5 +1,5 @@
 # Suraj Melkani, Graduate Research Assistant | Ph.D. Candidate 
-University of Florida – Soil, Water, and Ecosystem Sciences, College of Agriculture and Life Sciences  
+University of Florida – Soil, Water, and Ecosystem Sciences
 
 Welcome to my research portfolio. This GitHub serves as the software and modeling hub for my research focused on:
 
